@@ -1,6 +1,6 @@
 # Terraform-Labs
 
-## Creating an EC2 Instance in AWS and Installing Terraform
+## Lab-1: Creating an EC2 Instance in AWS and Installing Terraform
 
 To begin, log in to AWS Console.
 
